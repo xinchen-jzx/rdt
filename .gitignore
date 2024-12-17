@@ -1,0 +1,11 @@
+1.0/reciever.py
+**/__pycache__
+2.0/a.png
+2.0/test.py
+**/test
+**/**.out
+C++/1.0/a.out
+C++/1.0/client
+C++/1.0/server
+**/.vscode/
+**/test*
